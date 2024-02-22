@@ -10,9 +10,7 @@
 
 - 👯 I’m looking to collaborate on [x.project](project.x)
 
-- 🤝 I’m looking for help with [x.project](project.x)
-
-- 👨‍💻 All of my projects are available at [x.examplelink.com](x.examplelink.com)
+- 👨‍💻 All of my projects are available at [linkedln](https://www.linkedin.com/in/firzairvan/)
 
 - 💬 Ask me about **Python, Web and Database**
 
