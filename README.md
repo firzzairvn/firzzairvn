@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firzzairvn&label=Profile%20views&color=0e75b6&style=flat" alt="firzzairvn" /> </p>
 
-- 🔭 I’m currently working on [x.project](project.x)
+- 🔭 I’m currently studing on [Gunadarma University](https://gunadarma.ac.id/)
 
 - 🌱 I’m currently learning **TensorFlow, Winsonx.ai**
 
