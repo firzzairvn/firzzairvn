@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studing on [Gunadarma University](https://gunadarma.ac.id/)
 
-- 🌱 I’m currently learning **TensorFlow, Winsonx.ai**
+- 🌱 I’m currently learning **TensorFlow, Watsonx.ai**
 
 - 👯 I’m looking to collaborate on [x.project](project.x)
 
