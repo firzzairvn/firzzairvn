@@ -8,13 +8,9 @@
 
 - 🌱 I’m currently learning **TensorFlow, Watsonx.ai**
 
-- 👯 I’m looking to collaborate on [x.project](project.x)
-
-- 👨‍💻 All of my projects are available at [linkedln](https://www.linkedin.com/in/firzairvan/)
-
 - 💬 Ask me about **Python, Web and Database**
 
-- 📫 How to reach me **firzzairvn@gmail.com**
+- 📫 How to reach me **firzzairvn@gmail.com** and [linkedln](https://www.linkedin.com/in/firzairvan/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
