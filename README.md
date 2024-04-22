@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Irvan Arfirza</h1>
+<h1 align="center">Muhammad Irvan Arfirza</h1>
 <h3 align="center">Interested in developing machine learning to solve problems in ways that are better and more useful to humans. Has a desire to develop machine learning in the medical world that can solve problems, one of which is for cancer to help more people.</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmptanY5bng5dmpscmw3c3k3dTg4YnY3aHFud3o1N3FlcDc5OGdvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif">
 
